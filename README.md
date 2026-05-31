@@ -214,3 +214,4 @@ to solve a real-world environmental challenge.
 ## License
 
 This project was developed for academic and educational purposes.
+It's for the Major Project Submitted in Group which I led.
